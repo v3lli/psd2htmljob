@@ -1,0 +1,96 @@
+{
+	"mapwidth":"568",
+	"mapheight":"475",
+	"levels":[
+		{
+			"id":"apex",
+			"title":"APEX 10 County Map",
+			"map":"APEX/maps/APEX-Map.svg",
+			"locations":[
+				{
+					"id": "Koochiching",
+					"title": "Koochiching County, MN",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+                    "thumbnail": "APEX/images/koochiching.jpg",
+					"fill": "#ebebeb",
+                    "link": "http://apexgetsbusiness.com/",
+                    "x": "0.1928",
+					"y": "0.2463"
+				},
+				{
+					"id": "Itasca",
+					"title": "Itasca County",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.2104",
+					"y": "0.4716"
+				},
+				{
+					"id": "Aitkin",
+					"title": "Aitkin County",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.2456",
+					"y": "0.7684"
+				},
+				{
+					"id": "StLouis",
+					"title": "St Louis County, MN",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.4234",
+					"y": "0.4189"
+				},
+				{
+					"id": "Carlton",
+					"title": "Carlton County, MN",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.3741",
+					"y": "0.7684"
+				},
+				{
+					"id": "Lake",
+					"title": "Lake County, MN",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.6030",
+					"y": "0.4063"
+				},
+				{
+					"id": "Cook",
+					"title": "Cook County, MN",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.7560",
+					"y": "0.3179"
+				},
+				{
+					"id": "Douglas",
+					"title": "Douglas County, WI",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.5167",
+					"y": "0.8147"
+				},
+				{
+					"id": "Bayfield",
+					"title": "Bayfield County, WI",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "hidden",
+					"x": "0.6329",
+					"y": "0.8021"
+				},                
+				{
+					"id": "Ashland",
+					"title": "Ashland County, WI",
+					"description": "<p><strong>Population:</strong> 102,847</p><p><strong>County Seat:</strong> Duluth, MN</p><p><strong>Leading Industries</strong><br>Ore Extraction<br>Forrestry<br>Tourism</p>",
+					"pin": "circular",
+					"x": "0.7245",
+					"y": "0.8695"
+				}
+			]
+		}
+	]
+}
